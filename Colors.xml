@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+    <color>
+        <name>background</name>
+        <rgb>30, 30, 30</rgb>
+    </color>
+    <color>
+        <name>errorText</name>
+        <rgb>255, 128, 128</rgb>
+    </color>
+    <color>
+        <name>highlight</name>
+        <rgb>19, 63, 110</rgb>
+    </color>
+    <color>
+        <name>selectedText</name>
+        <rgb>200, 200, 200</rgb>
+    </color>
+    <color>
+        <name>successText</name>
+        <rgb>128, 255, 128</rgb>
+    </color>
+    <color>
+        <name>text</name>
+        <rgb>200, 200, 200</rgb>
+    </color>
+    <color>
+        <name>warningText</name>
+        <rgb>255, 255, 128</rgb>
+    </color>
+</colors>
